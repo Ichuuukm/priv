@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Ichuuukm/priv/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Ichuuukm/priv/tree/master/0242-valid-anagram) |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Ichuuukm/priv/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 ## Prefix Sum
 |  |
 | ------- |

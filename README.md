@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ichuuukm/priv/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/Ichuuukm/priv/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ichuuukm/priv/tree/master/0169-majority-element) |
+| [0485-max-consecutive-ones](https://github.com/Ichuuukm/priv/tree/master/0485-max-consecutive-ones) |
 | [1480-running-sum-of-1d-array](https://github.com/Ichuuukm/priv/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Ichuuukm/priv/tree/master/1929-concatenation-of-array) |
 ## Hash Table

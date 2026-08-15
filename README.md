@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ichuuukm/priv/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ichuuukm/priv/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/Ichuuukm/priv/tree/master/0485-max-consecutive-ones) |
+| [0977-squares-of-a-sorted-array](https://github.com/Ichuuukm/priv/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Ichuuukm/priv/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Ichuuukm/priv/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ichuuukm/priv/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ichuuukm/priv/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ichuuukm/priv/tree/master/0242-valid-anagram) |
+| [0977-squares-of-a-sorted-array](https://github.com/Ichuuukm/priv/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
@@ -63,4 +65,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ichuuukm/priv/tree/master/0088-merge-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Ichuuukm/priv/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
